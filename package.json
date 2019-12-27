@@ -1,0 +1,19 @@
+{
+  "name": "dog",
+  "version": "1.0.0",
+  "description": "",
+  "main": "app.js",
+  "dependencies": {
+    "koa": "^2.11.0",
+    "koa-router": "^7.4.0",
+    "mysql2": "^2.1.0",
+    "node-schedule": "^1.3.2",
+    "sequelize": "^5.21.3"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC"
+}
